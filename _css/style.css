@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&family=Roboto:ital,wght@0,400;1,300;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+/* Fontes 
+font-family: 'Modak', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Fredoka One', cursive;
+*/
+
+
+body {
+    background-color: #F6F5F0;
+    align-content: center;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    color: #3E5336;
+    font-style: unset; 
+    margin-bottom: 5pt;
+    margin-top: 40pt;
+}
+
+/*Imagem Doguinhos*/
+
+#desenhoDogs {
+    margin-bottom: 12pt;
+    padding: 5pt;
+}
+
+#imagemDogs {
+    max-width: 40%;
+}
+
+/*Texto insira a idade*/
+
+#textoInsira {
+    color: #3E5336;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200pt;
+    font-size: 18px;
+    margin-bottom: 5pt;
+}
+
+/*Inputs do Usuário*/
+
+#inputAnos {
+    margin-top: 10pt;
+    border-color: transparent;
+    background-color: #FCF0CA;
+    border-radius: 6pt;
+    padding: 2pt;
+}
+
+#inputMeses {
+    margin-top: 5pt;
+    border-color: transparent;
+    background-color: #FCF0CA;
+    border-radius: 6pt;
+    padding: 2pt;
+}
+
+/* Div container*/
+
+#inputUsuario {
+    color: #3E5336;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 200pt;
+    margin-top: 3pt;
+    font-size: 18px;
+}
+
+/*Botões*/
+
+.botaoContainer {
+    margin-top: 3pt;
+    margin-bottom: 0pt;
+    padding: 0pt;
+}
+
+#botao {
+    background-color: #F6DA73;
+    color: #3E5336;
+    border: transparent;
+    padding: 9pt;
+    border-radius: 6pt;
+    margin-top: 15pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 12pt;
+    box-shadow: 2px 2px 4px #dadada;
+    
+}
+
+#botaoRecalcular {
+    background-color: #F6DA73;
+    color: #3E5336;
+    border: transparent;
+    padding-top: 10pt;
+    padding-bottom: 0pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    border-radius: 6pt;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 12pt;
+    box-shadow: 2px 2px 4px #dadada;
+}
+
+/*Frame que Muda*/
+
+#frameQueMuda {
+    color: #3E5336;
+    background-color: #f2f3ec ;
+    padding: 10pt;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200pt;
+    font-size: 18px;
+    margin-bottom: 5pt;
+}
+
+/*Explicação*/
+
+#explicacao {
+    padding-left: 20pt;
+    padding-right: 20pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    color: #3E5336;
+    background-color: #f2f3ec;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200pt;
+    font-size: 18px;
+    margin-top: 35pt;
+    margin-left: 30pt;
+    margin-right: 30pt;
+    margin-bottom: 30pt;
+    border-radius: 17pt;
+    box-shadow: 2px 2px 4px #dadada;
+}
+
+/*Imagem Gráficos*/
+
+#graficos {
+    max-width: 100%;
+}
+
+/*Footer*/
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    color: #3E5336;
+    font-style: unset; 
+    margin-bottom: 5pt;
+    margin-top: 40pt;
+}
